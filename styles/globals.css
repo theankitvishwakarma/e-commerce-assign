@@ -1,0 +1,6 @@
+/* Minimal globals - main styling remains inside your original HTML file */
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
