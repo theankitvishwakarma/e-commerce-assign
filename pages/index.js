@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DeepSeek - Original HTML (served)</title>
+        <title>e-commerce</title>
       </Head>
       <div style={{height: '100vh', margin:0, padding:0}}>
         <iframe
